@@ -1,6 +1,6 @@
 #include <cmath>
 using namespace std;
 
-double stepenb(double x) {
+double step(double x) {
     return pow(x, 2);
 }
