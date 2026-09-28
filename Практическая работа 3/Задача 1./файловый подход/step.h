@@ -1,1 +1,1 @@
-double stepenb(double x);
+double step(double x);
