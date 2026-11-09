@@ -1,0 +1,1 @@
+int Next(int n);
